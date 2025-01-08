@@ -6,7 +6,7 @@
 <listener class-name="com.craftsvilla.generic.ITest"></listener>
 
 </listeners>
-  <test  name="Regression">
+  <test  name="Regression - 2025">
   
   <classes >
   <class name="com.craftsvilla.testscripts.AccessoriesModuleScripts"></class>
